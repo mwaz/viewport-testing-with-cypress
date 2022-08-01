@@ -1,0 +1,15 @@
+{
+  "name": "travel-booking",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r   <img src=\"https://yt3.ggpht.com/Z5XPI05pZBU_eWSlGNe9OnoWvYnm5MLJWCrKn9xk77TrZz63m1DJqHyDsyWAlImwFi-0Xjl3IFQ=s176-c-k-c0x00ffffff-no-rj-mo\" width=\"100px\"/>\r   <h3 align=\"center\" border-radius=\".5rem\" >Responsive-Illustration-Website</h3>",
+  "main": "index.js",
+  "keywords": [],
+  "scripts": {
+    "start": "http-server -c-1 -p 9000"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
