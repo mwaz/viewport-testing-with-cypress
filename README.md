@@ -4,7 +4,7 @@ This is a simple application that we are using to write cypress tests for the br
 ## How to clone
 To clone this repository to your local machine, run the following command:
 
-<code>git clone https://github.com/hezthewolf/cypress-viewport-testing.git</code>
+<code>git clone https://github.com/mwaz/viewport-testing-with-cypress.git</code>
 
 ## Installing dependencies
 To install dependencies necessary for this application, run the following command:
