@@ -1,6 +1,6 @@
 # Viewport Testing With Cypress
 
-[![CircleCI](https://circleci.com/gh/mwaz/viewport-testing-with-cypress-builds.svg?style=svg)](https://circleci.com/gh/mwaz/viewport-testing-with-cypress-builds-config)
+[![CircleCI](https://circleci.com/gh/mwaz/viewport-testing-with-cypress.svg?style=svg)](https://circleci.com/gh/mwaz/viewport-testing-with-cypress)
 
 <p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
 
