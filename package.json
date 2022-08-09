@@ -5,11 +5,15 @@
   "main": "index.js",
   "keywords": [],
   "scripts": {
-    "start": "http-server -c-1 -p 9000"
+    "start": "http-server -c-1 -p 9000",
+    "test": "npx cypress run"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "http-server": "^14.1.1"
+  },
+  "dependencies": {
+    "cypress": "^9.7.0"
   }
 }
