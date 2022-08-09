@@ -1,21 +1,45 @@
-# Browser and mobile viewport testing
-This is a simple application that we are using to write cypress tests for the browser and mobile viewports
+# Viewport Testing With Cypress
 
-## How to clone
+[![CircleCI](https://circleci.com/gh/mwaz/viewport-testing-with-cypress-builds.svg?style=svg)](https://circleci.com/gh/mwaz/viewport-testing-with-cypress-builds-config)
+
+<p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
+
+
+An application to test browser and mobile viewports using Cypress framework. 
+
+## Cloning repository
 To clone this repository to your local machine, run the following command:
 
-<code>git clone https://github.com/mwaz/viewport-testing-with-cypress.git</code>
-
+```bash
+git clone https://github.com/mwaz/viewport-testing-with-cypress.git
+```
 ## Installing dependencies
-To install dependencies necessary for this application, run the following command:
+To install dependencies execute the following command:
 
-<code>npm install</code>
-
+```bash
+npm install
+```
 ## Running the application
 To view the application, execute the following command:
 
-<code>npm start</code>
+```bash
+npm start
+```
 
-#### To run the test server, run the following command:
+#### Executing cypress tests
 
-<code>npx cypress run</code>
+```bash
+npx cypress run
+```
+
+## Details
+
+This repo is built following a tutorial published on CircleCI blog under the CircleCI Guest Writer Program.
+
+-   Blog post: [ Viewport Testing With Cypress ][blog]
+-   Author's GitHub profile: [Waweru Mwaura][author]
+
+### About CircleCI Guest Writer Program
+
+[blog]: https://circleci.com/blog/viewport-testing-with-cypress
+[author]: https://github.com/mwaz
